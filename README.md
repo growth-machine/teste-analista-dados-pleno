@@ -71,4 +71,6 @@ Documente todas as suas consultas, análises e insights obtidos. Apresente um re
 
 Ao finalizar o teste, envie um e-mail para [petro.cardoso@growthmachine.com.br](mailto:petro.cardoso@growthmachine.com.br?cc=leonardo.alexandre@growthmachine.com.br&subject=Teste%20T%C3%A9cnico%20-%20An%C3%A1lise%20de%20Dados%3A%20Vendas%20e%20Marketing) com cópia para [leonardo.alexandre@growthmachine.com.br](mailto:petro.cardoso@growthmachine.com.br?cc=leonardo.alexandre@growthmachine.com.br&subject=Teste%20T%C3%A9cnico%20-%20An%C3%A1lise%20de%20Dados%3A%20Vendas%20e%20Marketing) contendo o link do seu repositório no GitHub contendo a solução do teste.
 
+> Obs.: Caso você tenha alguma dúvida sobre o teste, entre em contato conosco pelos mesmos e-mails acima.
+
 Boa sorte!
