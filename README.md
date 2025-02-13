@@ -23,10 +23,10 @@ O candidato deverá desenvolver análises a partir desta base, abordando os segu
 ### A. Análise de Vendas
 
 1. **Total de Vendas por Canal:**  
-   Calcule o valor total de vendas (soma de `valor_total`) por canal de aquisição (Outbound vs Inbound) em um período específico (por exemplo, no último trimestre).
+   Calcule o valor total de vendas por canal de aquisição (Outbound vs Inbound) em um período específico (por exemplo, no último trimestre).
 
 2. **Top Produtos:**  
-   Identifique os 5 produtos com maior volume de vendas (soma de `quantidade`) e calcule a margem de lucro média para esses produtos.
+   Identifique os 5 produtos com maior volume de vendas e calcule a margem de lucro média para esses produtos.
 
 3. **Segmentação de Clientes:**  
    Compare o ticket médio entre os clientes dos segmentos B2B e B2C.
@@ -48,7 +48,7 @@ O candidato deverá desenvolver análises a partir desta base, abordando os segu
    Investigue se há um aumento nas vendas de determinados produtos logo após o início de uma campanha de marketing.
 
 8. **Análise Regional:**  
-    Explore se determinadas cidades (coluna `cidade` da tabela Clientes) apresentam melhor resposta às campanhas de marketing e como isso se reflete nas vendas.
+    Explore se determinadas cidades apresentam melhor resposta às campanhas de marketing e como isso se reflete nas vendas.
 
 ### D. Agora é com você!
 
