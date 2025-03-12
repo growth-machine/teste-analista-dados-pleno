@@ -52,7 +52,13 @@ O candidato deverá desenvolver análises a partir desta base, abordando os segu
 
 ### D. Agora é com você!
 
-Criatividade e inovação são bem-vindas! Proponha algumas análises adicionais que você acredita serem relevantes para a compreensão do negócio e que possam gerar insights valiosos para a empresa.
+Esta seção é fundamental e faz parte dos critérios de avaliação do teste. Esperamos que você:
+
+- **Proponha análises adicionais:**
+Vá além dos pontos solicitados nas seções A, B e C. Sugira outras análises que possam trazer insights valiosos para o negócio, como análises de performance por período, comportamento do cliente, análise de churn ou outras métricas relevantes.
+
+- **Entregue visualizações de dados:**
+Apresente suas análises de forma visual, criando gráficos, dashboards ou outras formas de visualização que facilitem a comunicação dos resultados para o stakeholder. Essas visualizações devem evidenciar os insights obtidos e tornar o relatório mais intuitivo e atrativo.
 
 
 ## Abordagem e Ferramentas
@@ -65,12 +71,14 @@ Você tem total liberdade para resolver o teste utilizando **SQL** ou **Python**
 
 O arquivo do banco de dados (`vendas_marketing.db`) será fornecido juntamente com este teste. Você pode utilizar ferramentas de visualização ou scripts Python para conectar e consultar a base de dados.
 
-## Considerações Finais
+## Entrega e Considerações Finais
 
-Documente todas as suas consultas, análises e insights obtidos. Apresente um relatório ou uma apresentação com suas conclusões e, se possível, inclua recomendações baseadas nos resultados. Lembre-se: análises que vão além dos pontos solicitados serão valorizadas e poderão render pontos adicionais.
+- Documente todas as suas consultas, análises e insights obtidos.
+- Apresente um relatório e/ou uma apresentação com suas conclusões, incluindo as visualizações que facilitarão o entendimento dos resultados pelo stakeholder.
+- Lembre-se: análises que vão além dos pontos solicitados serão **bastante** valorizadas e podem render pontos adicionais.
 
 Ao finalizar o teste, envie um e-mail para [petro.cardoso@growthmachine.com.br](mailto:petro.cardoso@growthmachine.com.br?cc=leonardo.alexandre@growthmachine.com.br&subject=Teste%20T%C3%A9cnico%20-%20An%C3%A1lise%20de%20Dados%3A%20Vendas%20e%20Marketing) com cópia para [leonardo.alexandre@growthmachine.com.br](mailto:petro.cardoso@growthmachine.com.br?cc=leonardo.alexandre@growthmachine.com.br&subject=Teste%20T%C3%A9cnico%20-%20An%C3%A1lise%20de%20Dados%3A%20Vendas%20e%20Marketing) contendo o link do seu repositório no GitHub contendo a solução do teste.
 
 > Obs.: Caso você tenha alguma dúvida sobre o teste, entre em contato conosco pelos mesmos e-mails acima.
 
-Boa sorte!
+Boa sorte e esperamos ver uma solução criativa, analítica e visualmente atraente!
